@@ -1,6 +1,6 @@
 {
   "name": "@jonmejia/actions-test",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "test for gh actions releasing package",
   "main": "index.js",
   "scripts": {
