@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/jonmejia/actions-test/issues"
   },
-  "homepage": "https://github.com/jonmejia/actions-test#readme"
+  "homepage": "https://github.com/jonmejia/actions-test#readme",
+  "devDependencies": {
+    "semantic-release": "^23.0.0"
+  }
 }
