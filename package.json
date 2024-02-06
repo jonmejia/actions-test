@@ -1,30 +1,33 @@
 {
-  "name": "@jonmejia/actions-test",
-  "version": "1.0.2",
-  "description": "test for gh actions releasing package",
-  "main": "index.js",
-  "scripts": {
-    "test": "test"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/jonmejia/actions-test.git"
-  },
-  "keywords": [
-    "npm",
-    "github",
-    "packages"
-  ],
-  "author": "Jonathan Mejia",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/jonmejia/actions-test/issues"
-  },
-  "homepage": "https://github.com/jonmejia/actions-test#readme",
-  "devDependencies": {
-    "semantic-release": "^23.0.0"
-  },
-  "release": {
-    "branches": ["main", "semantic-release"]
-  }
+	"name": "@jonmejia/actions-test",
+	"version": "1.0.2",
+	"description": "test for gh actions releasing package",
+	"main": "index.js",
+	"scripts": {
+		"test": "test"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/jonmejia/actions-test.git"
+	},
+	"keywords": [
+		"npm",
+		"github",
+		"packages"
+	],
+	"author": "Jonathan Mejia",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/jonmejia/actions-test/issues"
+	},
+	"homepage": "https://github.com/jonmejia/actions-test#readme",
+	"devDependencies": {
+		"semantic-release": "^23.0.0"
+	},
+	"release": {
+		"branches": [
+			"main",
+			"semantic-release"
+		]
+	}
 }
