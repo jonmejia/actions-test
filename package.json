@@ -23,5 +23,8 @@
   "homepage": "https://github.com/jonmejia/actions-test#readme",
   "devDependencies": {
     "semantic-release": "^23.0.0"
+  },
+  "release": {
+    "branches": ["master", "next"]
   }
 }
